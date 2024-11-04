@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Chokokutai&family=Rubik+Wet+Paint&display=swap');
+h1{
+font-style: italic;
+font-weight: 500px;
+}
+p{
+    color: red;
+}
+h2{
+    color: blue;
+    font-family: "Rubik Wet Paint";
+}
+.first{
+    color: blueviolet;
+}
+#second
+{
+    color: chartreuse;
+    font-family:'Courier New', Courier, monospace
+font-size: 50px;
+}
+h1 h2
+{
+    color: blue;
+}
+.zvyraznit{
+    background-color: blue;
+}
